@@ -2,15 +2,18 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tenenger7125@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF8800?style=flat&logoColor=white)](https://2mojurmoyang.tistory.com/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/56974520-275d-4298-9ce2-0d5cc278db57/deploy-status)](https://ldg-portfolio.netlify.app)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftenenger&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://www.acmicpc.net/user/tenenger"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger"></a>
 
-#### 💡 I’m currently learning React <br>
-#### 🔥 I'm interested in Web Developer<br>
+<a href="https://ldg-portfolio.netlify.app/" target="_blank" >Here My Portfolio Web Site</a>
+
+<!--
+<a href="https://www.acmicpc.net/user/tenenger"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger"></a>
+-->
+#### 💡 I’m currently learning Node.js, MySql <br>
+#### 🔥 I'm Next.js Frontend Developer.<br>
 #### 👨‍💻 I'm working at Foreign Language College of Korea<br><br>
 
 <!--내가 보유한 스킬목록-->
+<!--
 <div align=center><h1>🖥️ Tech Skill</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -21,7 +24,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <br>
 </div>
-<!--내가 보유한 스킬목록-->
+-->
+<!--내가 보유한 자격증목록-->
 <div align=center><h1>📃 Certifications</h1></div>
 
 #### 💳 Engineer Information Processing<br>
@@ -36,8 +40,7 @@
 ### 🏫 Education <br>
 #### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br><br>
 ### 👓 Experience <br>
-#### 👨‍💻 Foreign Language College of Korea, IT Development team, Web Development & Civil Service, Coordinator (2022.4~)
-#### 🐞 K-Eco, Management team, Sample sorting, Intern (2017.12~2018.01) <br><br>
+#### 👨‍💻 Foreign Language College of Korea, IT Development team, Web Development & Civil Service, Coordinator (2022.4~)<br/><br/>
 
 ### ✨ Remarkable <br>
 #### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.03~2021.06)<br><br>

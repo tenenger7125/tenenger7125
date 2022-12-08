@@ -45,8 +45,8 @@
 #### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.03~2021.06)<br><br>
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tenenger&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenenger&layout=compact&langs_count=8" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tenenger7125&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenenger7125&layout=compact&langs_count=8" align = "center"/>
 </p>
 
 <!--

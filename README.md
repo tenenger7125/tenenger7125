@@ -37,9 +37,10 @@
 
 
 ### 🏫 Education <br>
-#### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br><br>
+#### 🎓 Kangwon National University, Biology (2015.02~ 2019.03) <br>
+#### 🧠 Zerobase offline school 3rd (2023.1~)<br/><br/>
 ### 👓 Experience <br>
-#### 👨‍💻 Foreign Language College of Korea (2022.4~)<br/><br/>
+#### 👨‍💻 Foreign Language College of Korea (2022.4~ 2022. 12)<br/><br/>
 
 ### ✨ Remarkable <br>
 #### 🎖️ Military Service, Operation Department, CBRN Officer, (2019.03~2021.06)<br><br>

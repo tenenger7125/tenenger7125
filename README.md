@@ -8,7 +8,6 @@
 <!--
 <a href="https://www.acmicpc.net/user/tenenger"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tenenger"></a>
 -->
-#### 💡 I’m currently learning Next.js <br>
 #### 🔥 I'm Frontend Developer.<br><br>
 
 <!--내가 보유한 스킬목록-->

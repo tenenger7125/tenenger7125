@@ -1,8 +1,5 @@
 ## Hello, I'm Lee Dong Gyu 👋<br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:tenenger7125@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Tistory-FF8800?style=flat&logoColor=white)](https://2mojurmoyang.tistory.com/)
-
 <!-- <a href="https://ldg-portfolio.netlify.app/" target="_blank" >Here My Portfolio Web Site</a> -->
 
 <!--
